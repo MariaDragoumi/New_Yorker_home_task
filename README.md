@@ -73,4 +73,5 @@ cd ..
 jupyter-notebook new_yorker_home_task.ipynb
 ```
 
-
+The notebook will open with the web browser.
+Alterantivlly open the *new_yorker_home_task.ipynb* with an IDE that supports jupiter notebook as visual studio code (https://code.visualstudio.com).
